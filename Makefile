@@ -1,6 +1,6 @@
 # keep these in-sync with the #defines in crash_handler.c
 VERSION=0
-REVISION=7
+REVISION=8
 
 SYSROOT := $(shell $(CC) --print-sysroot)
 PROG = crash_handler
